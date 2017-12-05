@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "sumo.bohemianpool.com:6666", "wallet_address" : "Sumoo5HXHPrKd9sdKkvXyUTfdYfgdwCd6VCq4Hr6gGkye7gwQXj3g7x8TUhMFhHxKi2Z4Xv72PZqRT6NrD44tnB3bwqqoFJ46n2", "pool_password" : "dply", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "sumo.bohemianpool.com:6666", "wallet_address" : "Sumoo5HXHPrKd9sdKkvXyUTfdYfgdwCd6VCq4Hr6gGkye7gwQXj3g7x8TUhMFhHxKi2Z4Xv72PZqRT6NrD44tnB3bwqqoFJ46n2", "pool_password" : "dck", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
