@@ -1,2 +1,2 @@
 #!/bin/sh
-printf "monero\nxmrpool.eu:3333\nSumoo5HXHPrKd9sdKkvXyUTfdYfgdwCd6VCq4Hr6gGkye7gwQXj3g7x8TUhMFhHxKi2Z4Xv72PZqRT6NrD44tnB3bwqqoFJ46n2\ndck\nn\nn\nn\n" | /opt/xmr-stak/build/bin/xmr-stak
+printf "monero\nxmrpool.eu:3333\n4AXQcDDsLTtLdSAUTGYs5ZhrQkc8HkoeVfBDw56LvzNyQagog5D6u2ZPX1C89ECodwbQ9FoZMznn28SJWXKe3AmT9wVQTDu.20000+dck\nx\nn\nn\nn\n" | /opt/xmr-stak/build/bin/xmr-stak
